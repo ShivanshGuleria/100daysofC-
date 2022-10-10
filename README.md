@@ -1,4 +1,4 @@
-# 100daysoflearningC-
+# 100daysoflearningC++
 posting daily learning log
 
 [Course Link](https://coursera.org/specializations/cs-fundamentals)
